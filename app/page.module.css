@@ -1,0 +1,27 @@
+.clear {
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgba(191, 13, 0, 0.5);
+  backdrop-filter: blur(10px);
+  border: none;
+  height: 60px;
+  width: 150px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1.4em;
+}
+
+.generate {
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgba(32, 176, 0, 0.5);
+  backdrop-filter: blur(10px);
+  border: none;
+  height: 60px;
+  width: 150px;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 1.4em;
+}
